@@ -23,7 +23,7 @@ Link do Protótipo:
 
 ---
 <br>
-_Foi ser incrível caminharmos juntas!_
+_Foi incrível caminharmos juntas!_
 <br>
 
 ### Vamos nos conectar!
