@@ -1,6 +1,6 @@
 # Projeto Final Ciclo Formativo Pretalab - Módulo HTML e CSS
 
-![gif introdução](https://media.giphy.com/media/968taxwNaAXqZASdcn/giphy.gif)
+![gif introdução](https://capricho.abril.com.br/wp-content/uploads/2020/05/gif-pensando.gif)
 
 ## Sobre o projeto
 Link do projeto no ar:
@@ -28,11 +28,8 @@ _Foi ser incrível caminharmos juntas!_
 
 ### Vamos nos conectar!
 
-- [instagram](https://www.instagram.com/simara_conceicao)
-- [linkedin](https://www.linkedin.com/in/simaraconceicao)
-- [github](https://github.com/simaraconceicao)
-- [podcast](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3?si=f6562e559cb44560)
-- [canal do youtube](https://www.youtube.com/@queroserdev)
+- [instagram](https://www.instagram.com/isamaradasneves/)
+- [linkedin](https://www.linkedin.com/in/isamara-das-neves-557136113/)
+- [github](https://github.com/IsamaraNeves15)
 
 <br>
-
