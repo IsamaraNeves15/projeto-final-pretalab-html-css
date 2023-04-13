@@ -1,7 +1,7 @@
 # Projeto Final Ciclo Formativo Pretalab - Módulo HTML e CSS
 
-<div text-align= "center">
-![gif introdução](https://media.tenor.com/kEAnh8hUprEAAAAM/blm-black-lives-matter.gif)
+<div align= "center">
+<img src="https://media.tenor.com/kEAnh8hUprEAAAAM/blm-black-lives-matter.gif">
 </div>
 
 ## Sobre o projeto
