@@ -13,7 +13,7 @@
     padding-bottom: 32px; 
     padding-top: 32px;
     height: 60px; 
-    background-color: #a2d2ff;
+    background-color: rgb(94, 94, 237);
   }
 
   .header-menu nav {
@@ -76,7 +76,7 @@
   img{
     width: 100%;
     margin: 0px 10px 10px 0px;
-    border: 15px solid rgb(232, 165, 141);
+    border: 15px solid rgb(148, 163, 225);
     border-radius: 15% 25% 15% 25%;
     border-style:groove;
     padding: 3px;
@@ -84,7 +84,7 @@
   }
 
   h1 {
-    color:rgb(0, 28, 139);
+    color:rgb(123, 140, 207);
     font-weight: 700;
     font-size: 50px;
     text-align:center;
@@ -109,7 +109,7 @@
   }
 
   .formacao {
-    background-color: rgb(227, 184, 169);
+    background-color: #a2d2ff;
   }
   .article-lista {
     display: flex;
@@ -160,7 +160,7 @@ li {
 }
 
   .rodape {
-    background-color: #a2d2ff;
+    background-color:rgb(94, 94, 237);
     display: flex;
     align-items: center;
     height: 250px;

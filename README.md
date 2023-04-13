@@ -1,6 +1,6 @@
 # Projeto Final Ciclo Formativo Pretalab - Módulo HTML e CSS
 
-![gif introdução](https://i.pinimg.com/originals/3f/4f/03/3f4f035c1203e1e5631adbdea45c33f9.gif)
+![gif introdução](https://media.tenor.com/kEAnh8hUprEAAAAM/blm-black-lives-matter.gif)
 
 ## Sobre o projeto
 Link do projeto no ar:
