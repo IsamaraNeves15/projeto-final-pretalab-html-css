@@ -1,11 +1,14 @@
 # Projeto Final Ciclo Formativo Pretalab - Módulo HTML e CSS
 
+<div align= "center">
 ![gif introdução](https://media.tenor.com/kEAnh8hUprEAAAAM/blm-black-lives-matter.gif)
+</div>
 
 ## Sobre o projeto
 Link do projeto no ar:
 
 - [link do projeto final no netlify](https://www.figma.com/file/dykEV9jRKyK7K83CQ74zfP/Portfolio-Ciclo-Formativo-II---M%C3%B3dulo-I?node-id=0%3A1)
+
 
 O projeto final é um portfólio feito em HTML, CSS e hospedado no netlify.
 
